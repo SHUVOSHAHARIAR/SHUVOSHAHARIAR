@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SHUVOSHAHARIAR
 - 👀 I’m interested in Java and Python
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently studying computer science
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me - mahmud.shuvo@outlook.com
 
