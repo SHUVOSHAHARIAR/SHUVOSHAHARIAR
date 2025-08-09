@@ -1,11 +1,55 @@
-<h1 align="center">Hi 👋, I'm Shuvo Shahariar Mahmud</h1>
-<h3 align="center">Hi there, I’m [Your Name] 💼 Currently working at: Amazon (Transportation Specialist) 🎯 Career Goal: Cybersecurity Professional – focusing on Penetration Testing & SOC Analysis 📚 Currently learning: Cybersecurity tools, SOC operations, and penetration testing methodologies 💻 Also learning: Python development at Future Collars and building projects to sharpen my skills 🚀 Interests: Cybersecurity (Ethical Hacking, SOC Operations, Incident Response) Python Development Automation & Scripting for Security Open-source projects 🛠 Tech Stack & Skills Languages: Python (learning & building projects), Bash scripting Cybersecurity: Penetration testing basics, vulnerability assessment, SOC fundamentals Tools: Wireshark, Nmap, Burp Suite, Metasploit, Splunk (learning) Other Interests: Cloud security, automation scripts for security tasks</h3>
+# 👋 Hi, I’m Mahmud Shuvo  
 
-- 📫 How to reach me **mahmud.shuvo@outlook.com**
+💼 **Currently working at:** Amazon – Transportation Specialist  
+🎯 **Career Goal:** Cybersecurity Professional – specializing in **Penetration Testing** & **SOC Analysis**  
+📚 **Currently learning:** Cybersecurity tools, SOC operations, and penetration testing methodologies  
+💻 **Also learning:** Python development at Future Collars – building projects to sharpen automation and security scripting skills  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🔐 Cybersecurity Focus  
+- Ethical Hacking & Penetration Testing Basics  
+- SOC Operations & Incident Response Fundamentals  
+- Vulnerability Assessment & Threat Detection  
+- Cloud Security (AWS focus)  
+
+---
+
+## 🛠 Tech Stack & Tools  
+
+**Languages & Scripting:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+**Cybersecurity Tools:**  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=linux&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)  
+![Metasploit](https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white)  
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)  
+
+**Web & Development:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+
+---
+
+## 🚀 Interests  
+- Open-source security projects  
+- Automation scripts for security operations  
+- Cloud security monitoring and hardening  
+
+---
+
+## 📫 Connect with Me  
+📧 **Email:** [mahmud.shuvo@outlook.com](mailto:mahmud.shuvo@outlook.com)  
+💼 **LinkedIn:** [Your LinkedIn URL](#)  
+💻 **GitHub:** [Your GitHub URL](#)  
+
+---
+⭐️ _"Security is not a product, but a process."_ – Bruce Schneier  
